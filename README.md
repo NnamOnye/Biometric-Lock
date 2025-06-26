@@ -1,11 +1,9 @@
-ESP-IDF template app
+ESP-IDF APP
+Created by: Nnam Onye
 ====================
 
-This is a template application to be used with [Espressif IoT Development Framework](https://github.com/espressif/esp-idf).
-
-Please check [ESP-IDF docs](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) for getting started instructions.
-
-*Code in this repository is in the Public Domain (or CC0 licensed, at your option.)
-Unless required by applicable law or agreed to in writing, this
-software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
-CONDITIONS OF ANY KIND, either express or implied.*
+#This is a biometric lock utilizing PIN, and a Finger Print Scanning module.
+#This project is already optimized to a certain degree, it can already ask for pin/finger input on first start up + setup
+#Has memory to store user pin and finger check and authenticate using memory.
+#It can be expanded to save up to as many finger prints and passwords the engineer/designer/user wants.
+# The PCB is designed using the same concept as one of my other projects, "keypadPCB" but with additions for the bolt lock,etc..
