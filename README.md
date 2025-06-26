@@ -7,3 +7,7 @@ Created by: Nnam Onye
 # Has memory to store user pin and finger check and authenticate using memory.
 # It can be expanded to save up to as many finger prints and passwords the engineer/designer/user wants.
 # The PCB is designed using the same concept as one of my other projects, "keypadPCB" but with additions for the bolt lock,etc..
+# I designed the hardware using KiCAD an ECAD Software
+
+# Eclispe Download --> https://eclipseide.org/
+# KiCAD Download --> https://www.kicad.org/download/
